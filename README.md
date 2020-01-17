@@ -1,2 +1,2 @@
 # Regularazing-ANN-project
-Group project on various regularazation techniques used on ANNs.
+Group project on various regularization techniques used on ANNs in keras.
